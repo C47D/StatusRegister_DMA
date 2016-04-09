@@ -1,0 +1,11 @@
+# Ignore PSoC Creator temp and user files
+
+# Ignore User Workspace
+SPI_DMA_test2/.cywrk.Xwx47
+
+# Project optional files
+SPI_DMA_test2/Design01.cydsn/codegentemp/
+SPI_DMA_test2/Design01.cydsn/Generated_Source/
+SPI_DMA_test2/Design01.cydsn/Export/
+SPI_DMA_test2/Design01.cydsn/CortexM3/
+SPI_DMA_test2/*.cyprj.Xwx47
